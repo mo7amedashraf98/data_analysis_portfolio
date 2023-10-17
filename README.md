@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my GitHub portfolio! I'm Mohamed Ashraf, a junior data analyst who's passionate about uncovering insights from data and transforming them into actionable strategies. With experience in a wide array of data analysis tools, I strive to provide meaningful solutions to real-world problems.
+Welcome to my Data Analysis portfolio! I'm Mohamed Ashraf, a junior data analyst who's passionate about uncovering insights from data and transforming them into actionable strategies. With experience in a wide array of data analysis tools, I strive to provide meaningful solutions to real-world problems.
 
 # My Toolbox (And more to come): 
 
