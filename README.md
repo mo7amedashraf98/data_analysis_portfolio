@@ -4,11 +4,11 @@ Welcome to my Data Analysis portfolio! I'm Mohamed Ashraf, a junior data analyst
 
 # My Toolbox (And more to come): 
 
-📈 Spreadsheets (Excel & Google Sheets): Proficient in data cleaning, manipulation, and visualization to transform raw data into meaningful insights.
+📈**Spreadsheets (Excel & Google Sheets):** Proficient in data cleaning, manipulation, and visualization to transform raw data into meaningful insights.
 
-📚 SQL: Skilled in querying databases to extract and analyze data efficiently.
+📚 **SQL:** Skilled in querying databases to extract and analyze data efficiently.
 
-🐍 Python: I leverage Python and its libraries such as Pandas, NumPy, Seaborn, Matplotlib, and Plotly Express for advanced data analysis, statistical modeling, and interactive data visualization.
+🐍 **Python:** I leverage Python and its libraries such as Pandas, NumPy, Seaborn, Matplotlib, and Plotly Express for advanced data analysis, statistical modeling, and interactive data visualization.
 
 # What you'll find in this repo: 
 
@@ -16,15 +16,41 @@ Here you'll find a diverse range of data analysis projects that demonstrate my s
 
 So feel free to have a look at this repo, and if you have any suggestions please let me know. 
 
-## Portfolio Projects
+# Portfolio Projects
 
-###  1- No Show Patients: 
-Link: [No Show Patients - Udacity](https://github.com/mo7amedashraf98/Udacity-investigate-a-dataset-no-show-patients/blob/main/Investigate_a_dataset_No%20Show%20Appointments%201%20.ipynb)
+###  1- US BikeShare Project: 
 
-This project was the final project of Udacity Advanced Data Analysis Nanodegree. 
+**Link:** [US BikeShare Project - Udacity](https://github.com/mo7amedashraf98/US-explore-bikeshare-data/blob/main/us_bikeshare.py)
 
-Through a complete Data Analysis Process, from **Data Wrangling** to **Data Cleaning** and **Exploratory Data Analysis With Data Visualization** I tried to answer some questions to reveal some insights about the collected data. 
+**Description:** This project is the first project of Udacity Advanced Data Analysis Nanodegree. In this project, I used data provided by Motivate - a bike-sharing system provider in many of the US cities. 
 
-Libraries used: Pandas and Numpy for data manipulation, Matplotlib and Seaborn for data visualization. 
+The primary goal of this project is to develop a Python script that reveals usage patterns. While this script isn't directly related to data analysis, it played a crucial role in shaping my coding logic as the initial project.
 
-### 2- 
+### 2- No Show Patients: 
+
+**Link:** [No Show Patients - Udacity](https://github.com/mo7amedashraf98/Udacity-investigate-a-dataset-no-show-patients/blob/main/Investigate_a_dataset_No%20Show%20Appointments%201%20.ipynb)
+
+**Description:** This project was the final project of Udacity Advanced Data Analysis Nanodegree. In this project, I used a public dataset from Kaggle, Named [Medical Appointment No Show](https://www.kaggle.com/datasets/joniarroba/noshowappointments). 
+
+Through a complete Data Analysis Process, from **Data Wrangling** to **Data Cleaning**, **Exploratory Data Analysis** and **Data Visualization** I tried to answer some questions to reveal some insights about the collected data. 
+
+**Used Libraries:** Pandas and Numpy for data manipulation, Matplotlib and Seaborn for data visualization. 
+
+### 3- COVID-19 WorldWide Analysis: 
+
+**Link:** [COVID - 19](https://github.com/mo7amedashraf98/Covid-19-Worldwide-Analysis/blob/main/Covid-19%20Cases%20Worldwide.ipynb), [Rendered Notebok](https://nbviewer.org/github/mo7amedashraf98/Covid-19-Worldwide-Analysis/blob/main/Covid-19%20Cases%20Worldwide.ipynb)
+
+**Description:** This project not only showcases my data analysis skills but also reflects my dedication to continuous learning and growth in the field of data analysis. While this project consists of different stages such as **Data Cleaning**, **Exploratory Data Analysis** and **Data Visualization**, what makes this project remarkable is that I took on the challenge of learning Plotly from scratch, by studying the documentation, and a lot of code debugging to master its capabilities to create compelling and insightful visualizations. 
+
+**Used Libraries:** Pandas and Numpy for data manipulation, Plotly Express for Visualization. 
+
+### 4- SuperStore Sales Dashboard: 
+
+**Link:** [Superstore Dashboard](https://github.com/mo7amedashraf98/data_analysis_portfolio/blob/main/Superstore%20Data%20Dashboard.xlsx)
+
+**Description:** This project is a showcase of my skills in dashboard creation using Spreadsheets. Using a public dataset on Tableau Public named "Superstore Sales Data", I analyzed and Created an interactive dashboard to give an insight into the superstore sales through the years from 2014 - 2017, filtered by Regions and Shipment Modes. 
+
+**Used Tools:** Excel
+
+
+
