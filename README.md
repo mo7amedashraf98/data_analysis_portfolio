@@ -15,3 +15,16 @@ Welcome to my Data Analysis portfolio! I'm Mohamed Ashraf, a junior data analyst
 Here you'll find a diverse range of data analysis projects that demonstrate my skills and insights. From data cleaning to visualization, these projects showcase my problem-solving capabilities.
 
 So feel free to have a look at this repo, and if you have any suggestions please let me know. 
+
+## Portfolio Projects
+
+###  1- No Show Patients: 
+Link: [No Show Patients - Udacity](https://github.com/mo7amedashraf98/Udacity-investigate-a-dataset-no-show-patients/blob/main/Investigate_a_dataset_No%20Show%20Appointments%201%20.ipynb)
+
+This project was the final project of Udacity Advanced Data Analysis Nanodegree. 
+
+Through a complete Data Analysis Process, from **Data Wrangling** to **Data Cleaning** and **Exploratory Data Analysis With Data Visualization** I tried to answer some questions to reveal some insights about the collected data. 
+
+Libraries used: Pandas and Numpy for data manipulation, Matplotlib and Seaborn for data visualization. 
+
+### 2- 
