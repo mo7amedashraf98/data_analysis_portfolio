@@ -52,5 +52,13 @@ Through a complete Data Analysis Process, from **Data Wrangling** to **Data Clea
 
 **Used Tools:** Excel
 
+### 5- Nashville Housing Project: 
+
+**Link:** [Nashville Housing Project](https://github.com/mo7amedashraf98/SQL_Projects/tree/main/Nashville%20Housing%20Data%20-%20SQL)
+
+**Description:** This project focuses on cleaning and transforming a dataset related to Nashville housing information. The primary goals include standardizing date formats, populating null values, breaking down address components, updating column values, removing duplicates, and eliminating unused columns.
+
+**Used Tools:** SQL
+
 
 
