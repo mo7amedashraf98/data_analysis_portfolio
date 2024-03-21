@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my Data Analysis portfolio! I'm Mohamed Ashraf, a junior data analyst who's passionate about uncovering insights from data and transforming them into actionable strategies. With experience in a wide array of data analysis tools, I strive to provide meaningful solutions to real-world problems.
+Welcome to my Data Analysis portfolio! I'm Mohamed Ashraf, a data analyst who's passionate about uncovering insights from data and transforming them into actionable strategies. With experience in a wide array of data analysis tools, I strive to provide meaningful solutions to real-world problems.
 
 # My Toolbox (And more to come): 
 
@@ -9,6 +9,8 @@ Welcome to my Data Analysis portfolio! I'm Mohamed Ashraf, a junior data analyst
 📚 **SQL:** Skilled in querying databases to extract and analyze data efficiently.
 
 🐍 **Python:** I leverage Python and its libraries such as Pandas, NumPy, Seaborn, Matplotlib, and Plotly Express for advanced data analysis, statistical modeling, and interactive data visualization.
+
+📊**Tableau**: Leveraging data exploration and visualization to gain insights from data.
 
 # What you'll find in this repo: 
 
